@@ -1,0 +1,723 @@
+Etape 0:
+Grille de 10x10 cases: il y a 69 cases occupées.
+
+Agent:
+ Contenu du Sac:
+Nombre: 0
+Fortune: 0
+Bouclier: 0
+
+
+
+Etape 1:
+Grille de 10x10 cases: il y a 69 cases occupées.
+
+Agent:
+ Contenu du Sac:
+Nombre: 0
+Fortune: 0
+Bouclier: 0
+
+
+
+Etape 2:
+Grille de 10x10 cases: il y a 69 cases occupées.
+
+Agent:
+ Contenu du Sac:
+Nombre: 0
+Fortune: 0
+Bouclier: 0
+
+
+
+Etape 3:
+Grille de 10x10 cases: il y a 69 cases occupées.
+
+Agent:
+ Contenu du Sac:
+Nombre: 0
+Fortune: 0
+Bouclier: 0
+
+
+
+Etape 4:
+Grille de 10x10 cases: il y a 69 cases occupées.
+
+Agent:
+ Contenu du Sac:
+Nombre: 0
+Fortune: 0
+Bouclier: 0
+
+
+
+Etape 5:
+Grille de 10x10 cases: il y a 69 cases occupées.
+
+Agent:
+ Contenu du Sac:
+Nombre: 0
+Fortune: 0
+Bouclier: 0
+
+
+
+Etape 6:
+Grille de 10x10 cases: il y a 69 cases occupées.
+
+Agent:
+ Contenu du Sac:
+Nombre: 0
+Fortune: 0
+Bouclier: 0
+
+
+
+Etape 7:
+Grille de 10x10 cases: il y a 68 cases occupées.
+
+Agent:
+ Contenu du Sac:
+joyaux 0: Prix: 45
+Nombre: 1
+Fortune: 45
+Bouclier: 0
+
+
+
+Etape 8:
+Grille de 10x10 cases: il y a 68 cases occupées.
+
+Agent:
+ Contenu du Sac:
+joyaux 0: Prix: 45
+Nombre: 1
+Fortune: 45
+Bouclier: 0
+
+
+
+Etape 9:
+Grille de 10x10 cases: il y a 68 cases occupées.
+
+Agent:
+ Contenu du Sac:
+joyaux 0: Prix: 45
+Nombre: 1
+Fortune: 45
+Bouclier: 0
+
+
+
+Etape 10:
+Grille de 10x10 cases: il y a 68 cases occupées.
+
+Agent:
+ Contenu du Sac:
+joyaux 0: Prix: 45
+Nombre: 1
+Fortune: 45
+Bouclier: 0
+
+
+
+Etape 11:
+Grille de 10x10 cases: il y a 67 cases occupées.
+
+Agent:
+ Contenu du Sac:
+joyaux 0: Prix: 45
+joyaux 1: Prix: 16
+Nombre: 2
+Fortune: 61
+Bouclier: 0
+
+
+
+Etape 12:
+Grille de 10x10 cases: il y a 67 cases occupées.
+
+Agent:
+ Contenu du Sac:
+joyaux 0: Prix: 45
+joyaux 1: Prix: 16
+Nombre: 2
+Fortune: 61
+Bouclier: 0
+
+
+
+Etape 13:
+Grille de 10x10 cases: il y a 66 cases occupées.
+
+Agent:
+ Contenu du Sac:
+joyaux 0: Prix: 45
+joyaux 1: Prix: 16
+joyaux 2: Prix: 47
+Nombre: 3
+Fortune: 108
+Bouclier: 0
+
+
+
+Etape 14:
+Grille de 10x10 cases: il y a 66 cases occupées.
+
+Agent:
+ Contenu du Sac:
+joyaux 0: Prix: 45
+joyaux 1: Prix: 16
+joyaux 2: Prix: 47
+Nombre: 3
+Fortune: 108
+Bouclier: 0
+
+
+
+Etape 15:
+Grille de 10x10 cases: il y a 66 cases occupées.
+
+Agent:
+ Contenu du Sac:
+joyaux 0: Prix: 45
+joyaux 1: Prix: 16
+joyaux 2: Prix: 47
+Nombre: 3
+Fortune: 108
+Bouclier: 0
+
+
+
+Etape 16:
+Grille de 10x10 cases: il y a 66 cases occupées.
+
+Agent:
+ Contenu du Sac:
+joyaux 0: Prix: 45
+joyaux 1: Prix: 16
+joyaux 2: Prix: 47
+Nombre: 3
+Fortune: 108
+Bouclier: 0
+
+
+
+Etape 17:
+Grille de 10x10 cases: il y a 66 cases occupées.
+
+Agent:
+ Contenu du Sac:
+joyaux 0: Prix: 45
+joyaux 1: Prix: 16
+joyaux 2: Prix: 47
+Nombre: 3
+Fortune: 108
+Bouclier: 0
+
+
+
+Etape 18:
+Grille de 10x10 cases: il y a 65 cases occupées.
+
+Agent:
+ Contenu du Sac:
+joyaux 0: Prix: 45
+joyaux 1: Prix: 16
+joyaux 2: Prix: 47
+joyaux 3: Prix: 21
+Nombre: 4
+Fortune: 129
+Bouclier: 0
+
+
+
+Etape 19:
+Grille de 10x10 cases: il y a 65 cases occupées.
+
+Agent:
+ Contenu du Sac:
+joyaux 0: Prix: 45
+joyaux 1: Prix: 16
+joyaux 2: Prix: 47
+joyaux 3: Prix: 21
+Nombre: 4
+Fortune: 129
+Bouclier: 0
+
+
+
+Etape 20:
+Grille de 10x10 cases: il y a 65 cases occupées.
+
+Agent:
+ Contenu du Sac:
+joyaux 0: Prix: 45
+joyaux 1: Prix: 16
+joyaux 2: Prix: 47
+joyaux 3: Prix: 21
+Nombre: 4
+Fortune: 129
+Bouclier: 0
+
+
+
+Etape 21:
+Grille de 10x10 cases: il y a 64 cases occupées.
+
+Agent:
+ Contenu du Sac:
+joyaux 0: Prix: 45
+joyaux 1: Prix: 16
+joyaux 2: Prix: 47
+joyaux 3: Prix: 21
+joyaux 4: Prix: 27
+Nombre: 5
+Fortune: 156
+Bouclier: 0
+
+
+
+Etape 22:
+Grille de 10x10 cases: il y a 64 cases occupées.
+
+Agent:
+ Contenu du Sac:
+joyaux 0: Prix: 45
+joyaux 1: Prix: 16
+joyaux 2: Prix: 47
+joyaux 3: Prix: 21
+joyaux 4: Prix: 27
+Nombre: 5
+Fortune: 156
+Bouclier: 0
+
+
+
+Etape 23:
+Grille de 10x10 cases: il y a 64 cases occupées.
+
+Agent:
+ Contenu du Sac:
+joyaux 0: Prix: 45
+joyaux 1: Prix: 16
+joyaux 2: Prix: 47
+joyaux 3: Prix: 21
+joyaux 4: Prix: 27
+Nombre: 5
+Fortune: 156
+Bouclier: 0
+
+
+
+Etape 24:
+Grille de 10x10 cases: il y a 64 cases occupées.
+
+Agent:
+ Contenu du Sac:
+joyaux 0: Prix: 45
+joyaux 1: Prix: 16
+joyaux 2: Prix: 47
+joyaux 3: Prix: 21
+joyaux 4: Prix: 27
+Nombre: 5
+Fortune: 156
+Bouclier: 0
+
+
+
+Etape 25:
+Grille de 10x10 cases: il y a 64 cases occupées.
+
+Agent:
+ Contenu du Sac:
+joyaux 0: Prix: 45
+joyaux 1: Prix: 16
+joyaux 2: Prix: 47
+joyaux 3: Prix: 21
+joyaux 4: Prix: 27
+Nombre: 5
+Fortune: 156
+Bouclier: 0
+
+
+
+Etape 26:
+Grille de 10x10 cases: il y a 64 cases occupées.
+
+Agent:
+ Contenu du Sac:
+joyaux 0: Prix: 45
+joyaux 1: Prix: 16
+joyaux 2: Prix: 47
+joyaux 3: Prix: 21
+joyaux 4: Prix: 27
+Nombre: 5
+Fortune: 156
+Bouclier: 0
+
+
+
+Etape 27:
+Grille de 10x10 cases: il y a 64 cases occupées.
+
+Agent:
+ Contenu du Sac:
+joyaux 0: Prix: 45
+joyaux 1: Prix: 16
+joyaux 2: Prix: 47
+joyaux 3: Prix: 21
+joyaux 4: Prix: 27
+Nombre: 5
+Fortune: 156
+Bouclier: 0
+
+
+
+Etape 28:
+Grille de 10x10 cases: il y a 64 cases occupées.
+
+Agent:
+ Contenu du Sac:
+joyaux 0: Prix: 45
+joyaux 1: Prix: 16
+joyaux 2: Prix: 47
+joyaux 3: Prix: 21
+joyaux 4: Prix: 27
+Nombre: 5
+Fortune: 156
+Bouclier: 0
+
+
+
+Etape 29:
+Grille de 10x10 cases: il y a 63 cases occupées.
+
+Agent:
+ Contenu du Sac:
+joyaux 0: Prix: 45
+joyaux 1: Prix: 16
+joyaux 2: Prix: 47
+joyaux 3: Prix: 21
+joyaux 4: Prix: 27
+joyaux 5: Prix: 40
+Nombre: 6
+Fortune: 196
+Bouclier: 0
+
+
+
+Etape 30:
+Grille de 10x10 cases: il y a 63 cases occupées.
+
+Agent:
+ Contenu du Sac:
+joyaux 0: Prix: 45
+joyaux 1: Prix: 16
+joyaux 2: Prix: 47
+joyaux 3: Prix: 21
+joyaux 4: Prix: 27
+joyaux 5: Prix: 40
+Nombre: 6
+Fortune: 196
+Bouclier: 0
+
+
+
+Etape 31:
+Grille de 10x10 cases: il y a 62 cases occupées.
+
+Agent:
+ Contenu du Sac:
+joyaux 0: Prix: 45
+joyaux 1: Prix: 16
+joyaux 2: Prix: 47
+joyaux 3: Prix: 21
+joyaux 4: Prix: 27
+joyaux 5: Prix: 40
+joyaux 6: Prix: 50
+Nombre: 7
+Fortune: 246
+Bouclier: 0
+
+
+
+Etape 32:
+Grille de 10x10 cases: il y a 62 cases occupées.
+
+Agent:
+ Contenu du Sac:
+joyaux 0: Prix: 45
+joyaux 1: Prix: 16
+joyaux 2: Prix: 47
+joyaux 3: Prix: 21
+joyaux 4: Prix: 27
+joyaux 5: Prix: 40
+joyaux 6: Prix: 50
+Nombre: 7
+Fortune: 246
+Bouclier: 0
+
+
+
+Etape 33:
+Grille de 10x10 cases: il y a 62 cases occupées.
+
+Agent:
+ Contenu du Sac:
+joyaux 0: Prix: 45
+joyaux 1: Prix: 16
+joyaux 2: Prix: 47
+joyaux 3: Prix: 21
+joyaux 4: Prix: 27
+joyaux 5: Prix: 40
+joyaux 6: Prix: 50
+Nombre: 7
+Fortune: 246
+Bouclier: 0
+
+
+
+Etape 34:
+Grille de 10x10 cases: il y a 62 cases occupées.
+
+Agent:
+ Contenu du Sac:
+joyaux 0: Prix: 45
+joyaux 1: Prix: 16
+joyaux 2: Prix: 47
+joyaux 3: Prix: 21
+joyaux 4: Prix: 27
+joyaux 5: Prix: 40
+joyaux 6: Prix: 50
+Nombre: 7
+Fortune: 246
+Bouclier: 0
+
+
+
+Etape 35:
+Grille de 10x10 cases: il y a 61 cases occupées.
+
+Agent:
+ Contenu du Sac:
+joyaux 0: Prix: 45
+joyaux 1: Prix: 16
+joyaux 2: Prix: 47
+joyaux 3: Prix: 21
+joyaux 4: Prix: 27
+joyaux 5: Prix: 40
+joyaux 6: Prix: 50
+joyaux 7: Prix: 38
+Nombre: 8
+Fortune: 284
+Bouclier: 0
+
+
+
+Etape 36:
+Grille de 10x10 cases: il y a 61 cases occupées.
+
+Agent:
+ Contenu du Sac:
+joyaux 0: Prix: 45
+joyaux 1: Prix: 16
+joyaux 2: Prix: 47
+joyaux 3: Prix: 21
+joyaux 4: Prix: 27
+joyaux 5: Prix: 40
+joyaux 6: Prix: 50
+joyaux 7: Prix: 38
+Nombre: 8
+Fortune: 284
+Bouclier: 0
+
+
+
+Etape 37:
+Grille de 10x10 cases: il y a 60 cases occupées.
+
+Agent:
+ Contenu du Sac:
+joyaux 0: Prix: 45
+joyaux 1: Prix: 16
+joyaux 2: Prix: 47
+joyaux 3: Prix: 21
+joyaux 4: Prix: 27
+joyaux 5: Prix: 40
+joyaux 6: Prix: 50
+joyaux 7: Prix: 38
+joyaux 8: Prix: 84
+Nombre: 9
+Fortune: 368
+Bouclier: 0
+
+
+
+Etape 38:
+Grille de 10x10 cases: il y a 59 cases occupées.
+
+Agent:
+ Contenu du Sac:
+joyaux 0: Prix: 45
+joyaux 1: Prix: 16
+joyaux 2: Prix: 47
+joyaux 3: Prix: 21
+joyaux 4: Prix: 27
+joyaux 5: Prix: 40
+joyaux 6: Prix: 50
+joyaux 7: Prix: 38
+joyaux 8: Prix: 84
+joyaux 9: Prix: 8
+Nombre: 10
+Fortune: 376
+Bouclier: 0
+
+
+
+Etape 39:
+Grille de 10x10 cases: il y a 59 cases occupées.
+
+Agent:
+ Contenu du Sac:
+joyaux 0: Prix: 45
+joyaux 1: Prix: 16
+joyaux 2: Prix: 47
+joyaux 3: Prix: 21
+joyaux 4: Prix: 27
+joyaux 5: Prix: 40
+joyaux 6: Prix: 50
+joyaux 7: Prix: 38
+joyaux 8: Prix: 84
+joyaux 9: Prix: 8
+Nombre: 10
+Fortune: 376
+Bouclier: 0
+
+
+
+Etape 40:
+Grille de 10x10 cases: il y a 59 cases occupées.
+
+Agent:
+ Contenu du Sac:
+Nombre: 0
+Fortune: 0
+Bouclier: 0
+
+
+
+Etape 41:
+Grille de 10x10 cases: il y a 59 cases occupées.
+
+Agent:
+ Contenu du Sac:
+Nombre: 0
+Fortune: 0
+Bouclier: 0
+
+
+
+Etape 42:
+Grille de 10x10 cases: il y a 59 cases occupées.
+
+Agent:
+ Contenu du Sac:
+Nombre: 0
+Fortune: 0
+Bouclier: 0
+
+
+
+Etape 43:
+Grille de 10x10 cases: il y a 58 cases occupées.
+
+Agent:
+ Contenu du Sac:
+joyaux 0: Prix: 100
+Nombre: 1
+Fortune: 100
+Bouclier: 0
+
+
+
+Etape 44:
+Grille de 10x10 cases: il y a 57 cases occupées.
+
+Agent:
+ Contenu du Sac:
+joyaux 0: Prix: 100
+joyaux 1: Prix: 36
+Nombre: 2
+Fortune: 136
+Bouclier: 0
+
+
+
+Etape 45:
+Grille de 10x10 cases: il y a 57 cases occupées.
+
+Agent:
+ Contenu du Sac:
+joyaux 0: Prix: 100
+joyaux 1: Prix: 36
+Nombre: 2
+Fortune: 136
+Bouclier: 0
+
+
+
+Etape 46:
+Grille de 10x10 cases: il y a 57 cases occupées.
+
+Agent:
+ Contenu du Sac:
+joyaux 0: Prix: 100
+joyaux 1: Prix: 36
+Nombre: 2
+Fortune: 136
+Bouclier: 0
+
+
+
+Etape 47:
+Grille de 10x10 cases: il y a 57 cases occupées.
+
+Agent:
+ Contenu du Sac:
+joyaux 0: Prix: 100
+joyaux 1: Prix: 36
+Nombre: 2
+Fortune: 136
+Bouclier: 0
+
+
+
+Etape 48:
+Grille de 10x10 cases: il y a 56 cases occupées.
+
+Agent:
+ Contenu du Sac:
+joyaux 0: Prix: 100
+joyaux 1: Prix: 36
+Nombre: 2
+Fortune: 136
+Bouclier: 2
+
+
+
+Etape 49:
+Grille de 10x10 cases: il y a 56 cases occupées.
+
+Agent:
+ Contenu du Sac:
+joyaux 0: Prix: 100
+joyaux 1: Prix: 36
+Nombre: 2
+Fortune: 136
+Bouclier: 2
+
+
+

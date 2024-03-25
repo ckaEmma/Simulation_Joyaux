@@ -1,0 +1,231 @@
+Etape 0:
+Grille de 10x10 cases: il y a 62 cases occupées.
+
+Agent:
+ Contenu du Sac:
+joyaux 0: Prix: 44
+Nombre: 1
+Fortune: 44
+Bouclier: 0
+
+
+
+Etape 1:
+Grille de 10x10 cases: il y a 62 cases occupées.
+
+Agent:
+ Contenu du Sac:
+joyaux 0: Prix: 44
+Nombre: 1
+Fortune: 44
+Bouclier: 0
+
+
+
+Etape 2:
+Grille de 10x10 cases: il y a 62 cases occupées.
+
+Agent:
+ Contenu du Sac:
+joyaux 0: Prix: 44
+Nombre: 1
+Fortune: 44
+Bouclier: 0
+
+
+
+Etape 3:
+Grille de 10x10 cases: il y a 61 cases occupées.
+
+Agent:
+ Contenu du Sac:
+joyaux 0: Prix: 44
+joyaux 1: Prix: 26
+Nombre: 2
+Fortune: 70
+Bouclier: 0
+
+
+
+Etape 4:
+Grille de 10x10 cases: il y a 61 cases occupées.
+
+Agent:
+ Contenu du Sac:
+joyaux 0: Prix: 44
+joyaux 1: Prix: 26
+Nombre: 2
+Fortune: 70
+Bouclier: 0
+
+
+
+Etape 5:
+Grille de 10x10 cases: il y a 61 cases occupées.
+
+Agent:
+ Contenu du Sac:
+joyaux 0: Prix: 44
+joyaux 1: Prix: 26
+Nombre: 2
+Fortune: 70
+Bouclier: 0
+
+
+
+Etape 6:
+Grille de 10x10 cases: il y a 61 cases occupées.
+
+Agent:
+ Contenu du Sac:
+joyaux 0: Prix: 44
+joyaux 1: Prix: 26
+Nombre: 2
+Fortune: 70
+Bouclier: 0
+
+
+
+Etape 7:
+Grille de 10x10 cases: il y a 61 cases occupées.
+
+Agent:
+ Contenu du Sac:
+Nombre: 0
+Fortune: 0
+Bouclier: 0
+
+
+
+Etape 8:
+Grille de 10x10 cases: il y a 61 cases occupées.
+
+Agent:
+ Contenu du Sac:
+Nombre: 0
+Fortune: 0
+Bouclier: 0
+
+
+
+Etape 9:
+Grille de 10x10 cases: il y a 61 cases occupées.
+
+Agent:
+ Contenu du Sac:
+Nombre: 0
+Fortune: 0
+Bouclier: 0
+
+
+
+Etape 10:
+Grille de 10x10 cases: il y a 61 cases occupées.
+
+Agent:
+ Contenu du Sac:
+Nombre: 0
+Fortune: 0
+Bouclier: 0
+
+
+
+Etape 11:
+Grille de 10x10 cases: il y a 61 cases occupées.
+
+Agent:
+ Contenu du Sac:
+Nombre: 0
+Fortune: 0
+Bouclier: 0
+
+
+
+Etape 12:
+Grille de 10x10 cases: il y a 61 cases occupées.
+
+Agent:
+ Contenu du Sac:
+Nombre: 0
+Fortune: 0
+Bouclier: 0
+
+
+
+Etape 13:
+Grille de 10x10 cases: il y a 61 cases occupées.
+
+Agent:
+ Contenu du Sac:
+Nombre: 0
+Fortune: 0
+Bouclier: 0
+
+
+
+Etape 14:
+Grille de 10x10 cases: il y a 61 cases occupées.
+
+Agent:
+ Contenu du Sac:
+Nombre: 0
+Fortune: 0
+Bouclier: 0
+
+
+
+Etape 15:
+Grille de 10x10 cases: il y a 61 cases occupées.
+
+Agent:
+ Contenu du Sac:
+Nombre: 0
+Fortune: 0
+Bouclier: 0
+
+
+
+Etape 16:
+Grille de 10x10 cases: il y a 61 cases occupées.
+
+Agent:
+ Contenu du Sac:
+Nombre: 0
+Fortune: 0
+Bouclier: 0
+
+
+
+Etape 17:
+Grille de 10x10 cases: il y a 61 cases occupées.
+
+Agent:
+ Contenu du Sac:
+Nombre: 0
+Fortune: 0
+Bouclier: 0
+
+
+
+Etape 18:
+Grille de 10x10 cases: il y a 61 cases occupées.
+
+Agent:
+ Contenu du Sac:
+Nombre: 0
+Fortune: 0
+Bouclier: 0
+
+
+
+Etape 19:
+Grille de 10x10 cases: il y a 61 cases occupées.
+
+Agent:
+ Contenu du Sac:
+Nombre: 0
+Fortune: 0
+Bouclier: 0
+
+
+

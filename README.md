@@ -1,0 +1,1 @@
+Un projet fait en Java en collaboration où dans une Grille, des Joyaux sont disposés et des Gardiens patrouillent dans la Grille. Il y a un Agent qui va tenter de collecter tous les joyaux sans se faire attraper par les Gardiens en faisant des déplacements. S'il se fait attraper, son Sac est vidé.
